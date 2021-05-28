@@ -1,2 +1,2 @@
 # Sistemas Interactivos e Inmersivos
-Examples to remix and student projects showcase for the course "Sistemas Interactivos e Inmersivos", MSc Computer Science, Universidad Carlos III de Madrid
+Tutoriales, ejemplos y proyectos de los alumnos para la asignatura "Sistemas Interactivos e Inmersivos", del Máster Universitario en Ingeniería Informática, Universidad Carlos III de Madrid
