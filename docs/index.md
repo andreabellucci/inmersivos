@@ -3,9 +3,6 @@
 - Introducción a AFrame
 
 
-```markdown
-Syntax highlighted code block
-
 # Ejemplos
 # Proyectos 20-21
 
