@@ -14,10 +14,12 @@
 # AR.js: Realidad Aumentada con Marcadores
 
 ## Tutoriales
- - [Librería AR.js con AFrame](https://docs.google.com/document/d/1whWFHCZznR-kO0wiwtPllF3fGUNN5_vdifOPd8Jw6Dc/edit#heading=h.bqy1pgzc7km5)
+ - [AR.js con AFrame](https://docs.google.com/document/d/1whWFHCZznR-kO0wiwtPllF3fGUNN5_vdifOPd8Jw6Dc/edit#heading=h.bqy1pgzc7km5)
 
 ## Ejemplos
- - 
+ - [Marcadores tipo barcode](https://replit.com/@ANDREABELLUCCI1/example-arjs-barcode)
+ - [Multiples marcadores](https://replit.com/@ANDREABELLUCCI1/example-arjs-multiple-markers)
+ - [Interfaz de usuario 2D](https://replit.com/@ANDREABELLUCCI1/tutorial-webxr-arjs-dom)
 
 # DOM Overlay
 
