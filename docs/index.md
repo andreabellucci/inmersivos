@@ -11,7 +11,7 @@
  - [AFrame: mixin](https://replit.com/@ANDREABELLUCCI1/example-aframe-mixin)
  - [AFrame: eventos personalizados](https://replit.com/@ANDREABELLUCCI1/example-aframe-customevent)
 
-# AR.js: Realidad Aumentada con Marcadores
+# AR.js
 
 ## Tutoriales
  - [Introducción a AR.js](https://docs.google.com/document/d/1whWFHCZznR-kO0wiwtPllF3fGUNN5_vdifOPd8Jw6Dc/edit#heading=h.bqy1pgzc7km5)
@@ -21,7 +21,7 @@
  - [Multiples marcadores](https://replit.com/@ANDREABELLUCCI1/example-arjs-multiple-markers)
  - [Interfaz de usuario 2D](https://replit.com/@ANDREABELLUCCI1/tutorial-webxr-arjs-dom)
 
-# WebXR: Realidad Aumentada sin marcadores
+# Realidad Aumentada en WebXR
  - [Boilerplate Realidad Aumentada con WebXR y AFrame](https://replit.com/@ANDREABELLUCCI1/aframe-webxr-boilerplate)
 
 ## Tutoriales

@@ -21,9 +21,12 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>{{page.url}}</p>
+        {% if page.url == "/2021/" %}
+        <a href="https://andreabellucci.github.io/inmersivos/">Tutoriales y ejemplos</a>
+        <h2>Proyectos 2020-2021</h2>
+        {% else %}
         <a href="/inmersivos/2021/">Proyectos 2020-2021</a>
-
+        {% endif %}
        
       </header>
       <section>

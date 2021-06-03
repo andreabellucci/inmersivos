@@ -1,5 +1,3 @@
-[< Tutoriales y ejemplos](https://andreabellucci.github.io/inmersivos/)
-# Selección de proyectos 2020-2021
 
 ### Spaceship AR
 
