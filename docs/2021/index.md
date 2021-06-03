@@ -1,6 +1,8 @@
 [< Tutoriales y ejemplos](https://andreabellucci.github.io/inmersivos/)
 ## Proyectos 2020 - 2021
 
-Solarized dark             |  Solarized Ocean
--------------------------|-------------------------
-![aaaa](https://...Dark.png)  |  ![bbbb](https://...Ocean.png)
+Proyecto 1          			| aaaaa
+![aaaa](https://...Dark.png) 	|			
+								|
+Proyecto 2						|
+![bbbb](https://...Ocean.png)   |
