@@ -32,7 +32,7 @@
  - [Anclajes (Anchors)](https://docs.google.com/document/d/1PWvoSiW2GF6C8x6ej5ItGD7eqFt6LX2aeqjOJPKVTnI/edit#heading=h.bqy1pgzc7km5)
 
 ## Ejemplos
- - [Girar objetos hacía el observador](https://replit.com/@ANDREABELLUCCI1/example-objects-towards-viewer)
+ - [Objetos moviendose hacía un observador](https://replit.com/@ANDREABELLUCCI1/example-objects-towards-viewer)
  - [Motores de física](https://replit.com/@ANDREABELLUCCI1/example-aframe-ar-physics)
  - [XRInputSource](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-inputsource)
  - [Interacción táctil](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-event)
