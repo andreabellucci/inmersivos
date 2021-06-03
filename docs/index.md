@@ -27,10 +27,19 @@
 ## Tutoriales
  - [Introducción a la Realidad Aumentada con WebXR y AFrame](https://docs.google.com/document/d/1tavHW-AzhKAZfy0Ur4unlGjXqVQjxf2XIzuBW8VA8-g/edit#)
  - [Prueba de Impacto (Hit-Test)](https://docs.google.com/document/d/1AMvMFa17caEzarLdcu3LPJEg_CkFj0e0BcXFDn9YCsg/edit#heading=h.bqy1pgzc7km5)
+ - [Raycasting](https://docs.google.com/document/d/1rD6aKT6Au7ZUKmjfEuEWU3qCHiitmODMJnbztNxEa4o/edit#heading=h.bqy1pgzc7km5)
  - [DOM Overlay](https://docs.google.com/document/d/1RIoJLNvYOzcBHCxddkwH235Da5txOS8PxYou2idc-iQ/edit#heading=h.bqy1pgzc7km5)
  - [Anclajes (Anchors)](https://docs.google.com/document/d/1PWvoSiW2GF6C8x6ej5ItGD7eqFt6LX2aeqjOJPKVTnI/edit#heading=h.bqy1pgzc7km5)
 
 ## Ejemplos
+ - [Girar objetos hacía el observador](https://replit.com/@ANDREABELLUCCI1/example-objects-towards-viewer)
+ - [Motores de física](https://replit.com/@ANDREABELLUCCI1/example-aframe-ar-physics)
+ - [XRInputSource](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-inputsource)
+ - [Interacción táctil](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-event)
+ - [Interacción por voz (Web Speech API)](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-inputsource-voice)
+ - [Retroalimentación Inmersiva (Web Audio y Vibration)](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-inputsource-feedback)
+ - [Raycasting](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-target-ray)
+ - [Raycasting con prueba de impacto](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-target-ray-hittest)
  - [Creación de anclajes con prueba de impacto](https://replit.com/@ANDREABELLUCCI1/example-anchor)
 
 # [Proyectos 20-21](https://andreabellucci.github.io/inmersivos/#projects-2021)
