@@ -41,6 +41,3 @@
  - [Raycasting](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-target-ray)
  - [Raycasting con prueba de impacto](https://replit.com/@ANDREABELLUCCI1/example-webxr-ar-touch-target-ray-hittest)
  - [Creación de anclajes con prueba de impacto](https://replit.com/@ANDREABELLUCCI1/example-anchor)
-
-# [Proyectos 20-21](https://andreabellucci.github.io/inmersivos/#projects-2021)
-
