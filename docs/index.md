@@ -14,36 +14,24 @@
 # AR.js: Realidad Aumentada con Marcadores
 
 ## Tutoriales
- - [AR.js con AFrame](https://docs.google.com/document/d/1whWFHCZznR-kO0wiwtPllF3fGUNN5_vdifOPd8Jw6Dc/edit#heading=h.bqy1pgzc7km5)
+ - [Introducción a AR.js](https://docs.google.com/document/d/1whWFHCZznR-kO0wiwtPllF3fGUNN5_vdifOPd8Jw6Dc/edit#heading=h.bqy1pgzc7km5)
 
 ## Ejemplos
  - [Marcadores tipo barcode](https://replit.com/@ANDREABELLUCCI1/example-arjs-barcode)
  - [Multiples marcadores](https://replit.com/@ANDREABELLUCCI1/example-arjs-multiple-markers)
  - [Interfaz de usuario 2D](https://replit.com/@ANDREABELLUCCI1/tutorial-webxr-arjs-dom)
 
-# DOM Overlay
+# WebXR: Realidad Aumentada sin marcadores
+ - [Boilerplate Realidad Aumentada con WebXR y AFrame](https://replit.com/@ANDREABELLUCCI1/aframe-webxr-boilerplate)
 
 ## Tutoriales
- -
+ - [Introducción a la Realidad Aumentada con WebXR y AFrame](https://docs.google.com/document/d/1tavHW-AzhKAZfy0Ur4unlGjXqVQjxf2XIzuBW8VA8-g/edit#)
+ - [Prueba de Impacto (Hit-Test)](https://docs.google.com/document/d/1AMvMFa17caEzarLdcu3LPJEg_CkFj0e0BcXFDn9YCsg/edit#heading=h.bqy1pgzc7km5)
+ - [DOM Overlay](https://docs.google.com/document/d/1RIoJLNvYOzcBHCxddkwH235Da5txOS8PxYou2idc-iQ/edit#heading=h.bqy1pgzc7km5)
+ - [Anclajes (Anchors)](https://docs.google.com/document/d/1PWvoSiW2GF6C8x6ej5ItGD7eqFt6LX2aeqjOJPKVTnI/edit#heading=h.bqy1pgzc7km5)
 
 ## Ejemplos
- - 
-
-# Prueba de impacto
-
-## Tutoriales
- -
- 
-## Ejemplos
- - 
-
-# Anclajes
-
-## Tutoriales
- -
- 
-## Ejemplos
- - 
+ - [Creación de anclajes con prueba de impacto](https://replit.com/@ANDREABELLUCCI1/example-anchor)
 
 # [Proyectos 20-21](https://andreabellucci.github.io/inmersivos/#projects-2021)
 
