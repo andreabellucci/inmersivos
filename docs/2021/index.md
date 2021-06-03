@@ -27,6 +27,8 @@ Cuida tu mascota digital en Ralidad Aumentada.
 
 [Código](https://replit.com/@ANDREABELLUCCI1/tamagotchiar) * [Demo](https://tamagotchiar.andreabellucci1.repl.co)
 
+***
+
 ### AGILIS
 Un juego de realidad aumentada móvil en el que se pondrá a prueba cuánto tiempo puede estar un usuario esquivando objetos que se le acercan.
 
@@ -34,12 +36,16 @@ Un juego de realidad aumentada móvil en el que se pondrá a prueba cuánto tiem
 
 [Código](https://replit.com/@ANDREABELLUCCI1/agilis) * [Demo](https://agilis.andreabellucci1.repl.co)
 
+***
+
 ### Formblast
 Pon a prueba tus reflejos con un juego de disparos en Realidad Aumentada.
 
 ![Formblast](https://andreabellucci.github.io/inmersivos/images/logo_formblast.png "Formblast")
 
 [Código](https://replit.com/@ANDREABELLUCCI1/formblast) * [Demo](https://formblast.andreabellucci1.repl.co)
+
+***
 
 ### ARpeggio
 Pon a prueba tus reflejos con un juego de disparos en Realidad Aumentada.
