@@ -1,9 +1,10 @@
-
+---
+    title: Proyectos 2020 - 2021
+---
 ### Spaceship AR
+Aplicación gamificada para detectar indicios de Parkinson a partir del pulso y precisión en el juego.
 
 ![Spaceship AR](https://andreabellucci.github.io/inmersivos/images/logo_spaceshipar.png "Spaceship AR")
-
-Aplicación gamificada para detectar indicios de Parkinson a partir del pulso y precisión en el juego.
 
 [Código](https://replit.com/@ANDREABELLUCCI1/spaceshipar) * [Demo](https://spaceshipar.andreabellucci1.repl.co)
 
@@ -11,7 +12,7 @@ Aplicación gamificada para detectar indicios de Parkinson a partir del pulso y 
 
 ### ARads
 
-![Spaceship AR](https://andreabellucci.github.io/inmersivos/images/logo_arads.png "Spaceship AR")
+![ARads](https://andreabellucci.github.io/inmersivos/images/logo_arads.png "ARads")
 
 Anuncios interactivos en realidad aumentada.
 
@@ -19,10 +20,9 @@ Anuncios interactivos en realidad aumentada.
 
 ***
 
-### ARads
+### Tamagotchi AR
+Cuida tu mascota digital en Ralidad Aumentada.
 
-![Spaceship AR](https://andreabellucci.github.io/inmersivos/images/logo_arads.png "Spaceship AR")
+![Tamagotchi AR](https://andreabellucci.github.io/inmersivos/images/logo_tamagotchiar.png "Tamagotchi AR")
 
-Anuncios interactivos en realidad aumentada.
-
-[Código](https://replit.com/@ANDREABELLUCCI1/arads) * [Demo](https://arads.andreabellucci1.repl.co)
+[Código](https://replit.com/@ANDREABELLUCCI1/tamagotchiar) * [Demo](https://tamagotchiar.andreabellucci1.repl.co)
