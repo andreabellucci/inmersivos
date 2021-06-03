@@ -48,9 +48,8 @@ Pon a prueba tus reflejos con un juego de disparos en Realidad Aumentada.
 ***
 
 ### ARpeggio
-Pon a prueba tus reflejos con un juego de disparos en Realidad Aumentada.
+Una aplicación Web basada en Realidad Aumentada con la que cualquier persona podrá aprender a tocar el piano de una forma fácil y divertida.
 
 ![ARpeggio](https://andreabellucci.github.io/inmersivos/images/logo_arpeggio.png "ARpeggio")
 
 [Código](https://replit.com/@ANDREABELLUCCI1/arpeggio) * [Demo](https://arpeggio.andreabellucci1.repl.co)
-La aplicación ARpeggio es una aplicación web basada en realidad aumentada con la que cualquier persona podrá aprender a tocar el piano de una forma fácil y divertida
