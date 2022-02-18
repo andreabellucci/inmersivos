@@ -2,7 +2,7 @@
     title: Sistemas Interactivos e Inmersivos
 ---
 
-Tutoriales para aprender a desarrollar experiencias de Realidad Aumentada con la pila de tecnologías Web de la asignatura: Three.js, WebXR y A-Frame.
+Tutoriales para aprender a desarrollar experiencias de Realidad Aumentada con la pila de tecnologías Web de la asignatura: Three.js, WebXR y A-Frame. El acceso a los tutoriales está disponible exclusivamente desde una cuenta de la UC3M.
 
 ### Three.js
 
@@ -24,4 +24,10 @@ Tutoriales para aprender a desarrollar experiencias de Realidad Aumentada con la
 
 - [Primeros pasos: posición y orientación en el espacio](https://docs.google.com/document/d/1C8k0RN4M6dPeSy5ABzpuNsvIKE597xShreNVEqbS0jA)
 
-- [RA con marcadores: módulo image-tracking](https://docs.google.com/document/d/10180XbmxYDTOGBMsS77Pxz4RGZUr7CZJF99ufAFWGn8)
+- [RA con marcadores: módulo WebXR image-tracking](https://docs.google.com/document/d/10180XbmxYDTOGBMsS77Pxz4RGZUr7CZJF99ufAFWGn8)
+
+- [Pruebas de impacto: módulo WebXR hit-test]()
+
+- [Interacción básica en RA]()
+
+- [Interfaces 2D: módulo WebXr dom-overlays]()
